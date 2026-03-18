@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaswikondabolu&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaswikondabolu&show_icons=true&theme=tokyonight&hide=prs,issues,contribs,stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswikondabolu&layout=compact&theme=tokyonight)
 
@@ -35,12 +35,12 @@ React • Node.js • Express.js • Django • Phoenix • HTML • CSS • Jav
 Database  
 MongoDB • MySQL   
 
+Cloud & DevOps  
+AWS • Vercel • Render • Cloud Deployment • CI/CD
+
 Machine Learning & Data
 Deep Learning • CNN • Explainable AI (LIME, SHAP) • Data Analytics • NumPy • Pandas • Scikit-learn • Remote Sensing • GIS • Data Visualization 
 
-
-Cloud & DevOps  
-AWS • Vercel • Render • Cloud Deployment • CI/CD
 ---
 
 ## 🚀 Projects
@@ -69,7 +69,7 @@ AWS • Vercel • Render • Cloud Deployment • CI/CD
 ⭐ Women Engineers Program (Top 220 / 22000)  
 ⭐ 400+ Problems solved (LeetCode) 
 ⭐ SOF Olympiad International Rank 45  
-⭐ IEEE Publications  
+⭐ IEEE and other research publications  
 ⭐ Vice Chair – MLSC  
 ⭐ Secretary – IEEE WIE  
 ⭐ Core Team – GDSC  
