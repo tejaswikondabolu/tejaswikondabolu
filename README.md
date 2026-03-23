@@ -67,7 +67,7 @@ Deep Learning • CNN • Explainable AI (LIME, SHAP) • Data Analytics • Num
 ## 🏆 Achievements
 
 ⭐ Women Engineers Program (Top 220 / 22000)  
-⭐ 400+ Problems solved (LeetCode) 
+⭐ 400+ Problems solved (LeetCode)  
 ⭐ SOF Olympiad International Rank 45  
 ⭐ IEEE and other research publications  
 ⭐ Vice Chair – MLSC  
