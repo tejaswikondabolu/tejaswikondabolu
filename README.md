@@ -1,14 +1,13 @@
-# Hi 👋 I'm Tejaswi Kondabolu
+# Hi, I'm Tejaswi Kondabolu
 
-🎓 B.Tech Computer Science Student (2022-26) | CGPA 9.5  
-🏫 Velagapudi Ramakrishna Siddhartha Engineering College  
-💻 Software Development | Machine Learning | Cloud | Full Stack  
-🚀 Women Engineers Program (Google Supported) Scholar  
-📍 Vijayawada, India  
+B.Tech Computer Science Student (2022-26) | CGPA 9.5  
+Velagapudi Ramakrishna Siddhartha Engineering College  
+Software Development | Machine Learning | Cloud | Full Stack  
+Women Engineers Program (Google Supported) Scholar  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaswikondabolu&show_icons=true&theme=tokyonight&hide=prs,issues,contribs,stars)
 
@@ -18,13 +17,13 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=tejaswikondabolu&theme=tokyo-night)
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 Programming  
 Python • C • Java • Elixir
@@ -43,7 +42,7 @@ Deep Learning • CNN • Explainable AI (LIME, SHAP) • Data Analytics • Num
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🌧 Heavy Rainfall Prediction using XAI
 - CNN based deep learning model using satellite data
@@ -64,19 +63,19 @@ Deep Learning • CNN • Explainable AI (LIME, SHAP) • Data Analytics • Num
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-⭐ Women Engineers Program (Top 220 / 22000)  
-⭐ 400+ Problems solved (LeetCode)  
-⭐ SOF Olympiad International Rank 45  
-⭐ IEEE and other research publications  
-⭐ Vice Chair – MLSC  
-⭐ Secretary – IEEE WIE  
-⭐ Core Team – GDSC  
+Women Engineers Program (Top 220 / 22000)  
+400+ Problems solved (LeetCode)  
+SOF Olympiad International Rank 45  
+IEEE and other research publications  
+Vice Chair – MLSC  
+Secretary – IEEE WIE  
+Core Team – GDSC  
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
-📧 tejakondabolu11@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/tejaswi-kondabolu/  
+tejakondabolu11@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tejaswi-kondabolu/  
